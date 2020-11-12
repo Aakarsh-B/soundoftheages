@@ -946,7 +946,7 @@ main.scale-down {
 	letter-spacing:0;
 	-webkit-text-fill-color: transparent;
 	background: -webkit-linear-gradient(transparent, transparent),
-             url('../images/let.jpg') repeat;
+             url('../images/textbg.jpg') repeat;
 	background: -o-linear-gradient(transparent, transparent);
 	-webkit-background-clip: text;
 	background-position:center center;
